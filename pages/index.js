@@ -271,7 +271,7 @@ export default function Home() {
       </div>
 
       <div style={{ marginTop:18, color:"#6b7280", fontSize:13 }}>
-        <strong>Catatan:</strong> Ini prototype. Untuk produksi: simpan data di DB (Supabase/Airtable) dan tambahkan admin + validasi.
+        <strong>Catatan:</strong> Masih dalam tahapan prototyping
       </div>
     </div>
   );
