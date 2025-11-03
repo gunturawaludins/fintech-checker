@@ -160,13 +160,8 @@ export default function Home() {
           <h1>FINTECH CHECKER — Prototype</h1>
           <p>Search & filter fintech registration. If not found → dianggap <strong>ILEGAL</strong>.</p>
         </div>
-        <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-          <div style={{ textAlign: "right", color: "#6b7280", fontSize: 13 }}>
-            Client-side only • Static JSON
-          </div>
-          <button className="hamburger" onClick={() => setIsMenuOpen(!isMenuOpen)}>
-            ☰
-          </button>
+        <div style={{ textAlign: "right", color: "#6b7280", fontSize: 13 }}>
+          Client-side only • Static JSON
         </div>
       </div>
 
