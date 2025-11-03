@@ -1,0 +1,210 @@
+/* styles/globals.css */
+:root{
+  --bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --card: #ffffff;
+  --muted: #6b7280;
+  --accent: #4f46e5;
+  --danger: #dc2626;
+  --success: #059669;
+  --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --border-radius: 12px;
+}
+
+*{box-sizing:border-box}
+html,body,#__next{height:100%}
+body{
+  margin:0;
+  font-family:'Inter', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--bg);
+  color:#111827;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  padding:24px;
+  line-height: 1.6;
+}
+
+/* container */
+.container{
+  max-width:1200px;
+  margin:0 auto;
+}
+
+/* header */
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  margin-bottom:24px;
+  background: var(--card);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+}
+.header h1{
+  margin:0;
+  font-size:28px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.header p{
+  margin:0;
+  color:var(--muted);
+  font-size:14px;
+  font-weight: 500;
+}
+
+/* hamburger button */
+.hamburger {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background 0.2s;
+}
+.hamburger:hover {
+  background: #3730a3;
+}
+
+/* sidebar */
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  height: 100%;
+  background: var(--card);
+  box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  z-index: 1000;
+  overflow-y: auto;
+}
+.sidebar h3 {
+  margin-top: 0;
+  color: var(--accent);
+  font-size: 18px;
+}
+
+/* search area */
+.controls{
+  background:var(--card);
+  padding:20px;
+  border-radius:var(--border-radius);
+  box-shadow: var(--shadow);
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-bottom:20px;
+}
+.controls .row{
+  display:flex;
+  gap:8px;
+  align-items:center;
+}
+
+/* inputs */
+.input, .select {
+  padding:12px 14px;
+  border:2px solid #e5e7eb;
+  border-radius:10px;
+  min-width:180px;
+  outline:none;
+  font-size: 14px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.input:focus, .select:focus {
+  border-color:var(--accent);
+  box-shadow:0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+/* button */
+.btn {
+  background: var(--accent);
+  color: white;
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 0;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+.btn:hover {
+  background: #3730a3;
+}
+.btn.secondary {
+  background: transparent;
+  color: var(--accent);
+  border: 2px solid var(--accent);
+}
+.btn.secondary:hover {
+  background: var(--accent);
+  color: white;
+}
+
+/* results card */
+.card{
+  background:var(--card);
+  padding:20px;
+  border-radius:var(--border-radius);
+  box-shadow: var(--shadow);
+}
+.summary {
+  text-align: center;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+}
+.summary h2 {
+  margin-top: 0;
+  font-size: 24px;
+}
+.summary p {
+  font-size: 16px;
+}
+.notice-illegal{
+  background:#fef2f2;
+  border:1px solid rgba(239,68,68,0.2);
+  color:var(--danger);
+  padding:16px;
+  border-radius:10px;
+  font-weight: 500;
+}
+
+/* table */
+.table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:16px;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.table th, .table td{
+  text-align:left;
+  padding:14px 12px;
+  border-bottom:1px solid #f3f4f6;
+  font-size:14px;
+}
+.table th{
+  font-size:13px;
+  color:var(--muted);
+  background: #f9fafb;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.table tbody tr:hover {
+  background: #f9fafb;
+}
+
+/* small responsive */
+@media (max-width:900px){
+  .controls { flex-direction:column; }
+  .controls .row { width:100%; flex-wrap:wrap; }
+  .input { min-width:100%; }
+  .sidebar { width: 250px; }
+  .header { flex-direction: column; align-items: flex-start; }
+  .hamburger { align-self: flex-end; }
+}

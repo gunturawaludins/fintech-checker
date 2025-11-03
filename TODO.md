@@ -1,0 +1,3 @@
+- [x] Edit pages/index.js: Add state for isMenuOpen and selectedColumns, add hamburger button, sidebar with column toggles, conditional render for summary vs table.
+- [x] Edit styles/globals.css: Improve design with better colors, shadows, spacing; add styles for hamburger and sidebar.
+- [x] Test with npm run dev, check responsiveness and functionality.

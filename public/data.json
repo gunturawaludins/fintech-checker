@@ -1,0 +1,875 @@
+[
+    {
+        "Nomor": 1,
+        "Nama Perusahaan": "PT Pasar Dana Pinjaman",
+        "Nama Sistem Elektronik": "Danamas",
+        "Surat Tanda Berizin/Terdaftar": "KEP-49/D.05/2017",
+        "Tanggal Berizin/Terdaftar": "06 Juli 2017",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://p2p.danamas.co.id/"
+    },
+    {
+        "Nomor": 2,
+        "Nama Perusahaan": "PT Amartha Mikro Fintek",
+        "Nama Sistem Elektronik": "Amartha",
+        "Surat Tanda Berizin/Terdaftar": "KEP-46/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Mei 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://amartha.com/"
+    },
+    {
+        "Nomor": 3,
+        "Nama Perusahaan": "PT Indo Fin Tek",
+        "Nama Sistem Elektronik": "Dompet Kilat",
+        "Surat Tanda Berizin/Terdaftar": "KEP-47/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Mei 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://dompetkilat.co.id/"
+    },
+    {
+        "Nomor": 4,
+        "Nama Perusahaan": "PT Creative Mobile Adventure",
+        "Nama Sistem Elektronik": "Boost",
+        "Surat Tanda Berizin/Terdaftar": "KEP-48/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Mei 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.myboost.co.id"
+    },
+    {
+        "Nomor": 5,
+        "Nama Perusahaan": "PT Toko Modal Mitra Usaha",
+        "Nama Sistem Elektronik": "Tokomodal",
+        "Surat Tanda Berizin/Terdaftar": "KEP-49/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "24 Mei 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.tokomodal.co.id/"
+    },
+    {
+        "Nomor": 6,
+        "Nama Perusahaan": "PT Mitrausaha Indonesia Grup",
+        "Nama Sistem Elektronik": "Modalku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-81/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://modalku.co.id/"
+    },
+    {
+        "Nomor": 7,
+        "Nama Perusahaan": "PT Pendanaan Teknologi Nusa",
+        "Nama Sistem Elektronik": "KTA Kilat",
+        "Surat Tanda Berizin/Terdaftar": "KEP-82/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.pendanaan.com/"
+    },
+    {
+        "Nomor": 8,
+        "Nama Perusahaan": "PT Kredit Pintar Indonesia",
+        "Nama Sistem Elektronik": "Kredit Pintar",
+        "Surat Tanda Berizin/Terdaftar": "KEP-83/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.kreditpintar.com/"
+    },
+    {
+        "Nomor": 9,
+        "Nama Perusahaan": "PT Astra Welab Digital Arta",
+        "Nama Sistem Elektronik": "Maucash",
+        "Surat Tanda Berizin/Terdaftar": "KEP-84/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://maucash.id/"
+    },
+    {
+        "Nomor": 10,
+        "Nama Perusahaan": "PT Oriente Mas Sejahtera",
+        "Nama Sistem Elektronik": "Finmas",
+        "Surat Tanda Berizin/Terdaftar": "KEP-85/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.finmas.co.id"
+    },
+    {
+        "Nomor": 11,
+        "Nama Perusahaan": "PT Aman Cermat Cepat",
+        "Nama Sistem Elektronik": "KlikA2C",
+        "Surat Tanda Berizin/Terdaftar": "KEP-87/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "30 September 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://klika2c.co.id"
+    },
+    {
+        "Nomor": 12,
+        "Nama Perusahaan": "PT Akseleran Keuangan Inklusif Indonesia",
+        "Nama Sistem Elektronik": "Akseleran",
+        "Surat Tanda Berizin/Terdaftar": "KEP-122/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.akseleran.co.id/"
+    },
+    {
+        "Nomor": 13,
+        "Nama Perusahaan": "PT Ammana Fintek Syariah",
+        "Nama Sistem Elektronik": "Ammana",
+        "Surat Tanda Berizin/Terdaftar": "KEP-123/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "https://ammana.id/"
+    },
+    {
+        "Nomor": 14,
+        "Nama Perusahaan": "PT Dana Pinjaman Inklusif",
+        "Nama Sistem Elektronik": "PinjamanGo",
+        "Surat Tanda Berizin/Terdaftar": "KEP-124/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember_x000D_2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pinjamango.co.id"
+    },
+    {
+        "Nomor": 15,
+        "Nama Perusahaan": "PT Lunaria Annua Teknologi",
+        "Nama Sistem Elektronik": "KoinP2P",
+        "Surat Tanda Berizin/Terdaftar": "KEP-125/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember_x000D_2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://koinp2p.com/"
+    },
+    {
+        "Nomor": 16,
+        "Nama Perusahaan": "PT Pohon Dana Indonesia",
+        "Nama Sistem Elektronik": "Pohondana",
+        "Surat Tanda Berizin/Terdaftar": "KEP-126/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember_x000D_2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pohondana.id/"
+    },
+    {
+        "Nomor": 17,
+        "Nama Perusahaan": " PT Mekar InvestamaTeknologi",
+        "Nama Sistem Elektronik": "Mekar",
+        "Surat Tanda Berizin/Terdaftar": "KEP-127/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://mekar.id/"
+    },
+    {
+        "Nomor": 18,
+        "Nama Perusahaan": "PT Pembiayaan Digital Indonesia",
+        "Nama Sistem Elektronik": "AdaKami",
+        "Surat Tanda Berizin/Terdaftar": "KEP-128/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.adakami.id/"
+    },
+    {
+        "Nomor": 19,
+        "Nama Perusahaan": "PT Esta Kapital Fintek",
+        "Nama Sistem Elektronik": "Esta Kapital",
+        "Surat Tanda Berizin/Terdaftar": "KEP-129/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.estakapital.co.id"
+    },
+    {
+        "Nomor": 20,
+        "Nama Perusahaan": "PT Tri Digi Fin",
+        "Nama Sistem Elektronik": "KreditPro",
+        "Surat Tanda Berizin/Terdaftar": "KEP-130/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.kreditpro.id"
+    },
+    {
+        "Nomor": 21,
+        "Nama Perusahaan": "PT Fintegra Homido Indonesia",
+        "Nama Sistem Elektronik": "FINTAG",
+        "Surat Tanda Berizin/Terdaftar": "KEP-131/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://fintag.id"
+    },
+    {
+        "Nomor": 22,
+        "Nama Perusahaan": "PT Kredit Utama Fintech Indonesia",
+        "Nama Sistem Elektronik": "RupiahCepat",
+        "Surat Tanda Berizin/Terdaftar": "KEP-132/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.rupiahcepat.co.id/"
+    },
+    {
+        "Nomor": 23,
+        "Nama Perusahaan": "PT Mediator Komunitas Indonesia",
+        "Nama Sistem Elektronik": "Crowdo",
+        "Surat Tanda Berizin/Terdaftar": "KEP-133/D.05/2019",
+        "Tanggal Berizin/Terdaftar": "13 Desember 2019",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://crowdo.co.id/"
+    },
+    {
+        "Nomor": 24,
+        "Nama Perusahaan": "PT Artha Dana Teknologi",
+        "Nama Sistem Elektronik": "Indodana",
+        "Surat Tanda Berizin/Terdaftar": "KEP-15/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.indodana.id"
+    },
+    {
+        "Nomor": 25,
+        "Nama Perusahaan": "PT JULO Teknologi Finansial",
+        "Nama Sistem Elektronik": "JULO",
+        "Surat Tanda Berizin/Terdaftar": "KEP-16/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.julo.co.id/"
+    },
+    {
+        "Nomor": 26,
+        "Nama Perusahaan": "PT Progo Puncak Group",
+        "Nama Sistem Elektronik": "Pinjamin",
+        "Surat Tanda Berizin/Terdaftar": "KEP-17/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pinjamwinwin.com/"
+    },
+    {
+        "Nomor": 27,
+        "Nama Perusahaan": "PT Layanan Keuangan Berbagi",
+        "Nama Sistem Elektronik": "DanaRupiah",
+        "Surat Tanda Berizin/Terdaftar": "KEP-18/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.danarupiah.id/"
+    },
+    {
+        "Nomor": 28,
+        "Nama Perusahaan": "PT Indonusa Bara Sejahtera",
+        "Nama Sistem Elektronik": "OVO Finansial",
+        "Surat Tanda Berizin/Terdaftar": "KEP-19/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://ovofinansial.com"
+    },
+    {
+        "Nomor": 29,
+        "Nama Perusahaan": "PT Finansial Integrasi Teknologi",
+        "Nama Sistem Elektronik": "PinjamModal",
+        "Surat Tanda Berizin/Terdaftar": "KEP-20/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "19 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pinjammodal.id/"
+    },
+    {
+        "Nomor": 30,
+        "Nama Perusahaan": "PT Alami Fintek Sharia",
+        "Nama Sistem Elektronik": "Alami",
+        "Surat Tanda Berizin/Terdaftar": "KEP-21/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "27 Mei 2020",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "https://alamisharia.co.id/"
+    },
+    {
+        "Nomor": 31,
+        "Nama Perusahaan": "PT Simplefi Teknologi Indonesia",
+        "Nama Sistem Elektronik": "AwanTunai",
+        "Surat Tanda Berizin/Terdaftar": "KEP-22/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "27 Mei 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://awantunai.co.id/"
+    },
+    {
+        "Nomor": 32,
+        "Nama Perusahaan": "PT Dana Kini Indonesia",
+        "Nama Sistem Elektronik": "Danakini",
+        "Surat Tanda Berizin/Terdaftar": "KEP-46/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "16 Oktober 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.danakini.co.id"
+    },
+    {
+        "Nomor": 33,
+        "Nama Perusahaan": "PT Abadi Sejahtera Finansindo",
+        "Nama Sistem Elektronik": "Singa",
+        "Surat Tanda Berizin/Terdaftar": "KEP-47/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "16 Oktober 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://singa.id/"
+    },
+    {
+        "Nomor": 34,
+        "Nama Perusahaan": "PT Intekno Raya",
+        "Nama Sistem Elektronik": "Danamerdeka",
+        "Surat Tanda Berizin/Terdaftar": "KEP-48/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "16 Oktober 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://danamerdeka.co.id"
+    },
+    {
+        "Nomor": 35,
+        "Nama Perusahaan": "PT Indonesia Fintopia Technology",
+        "Nama Sistem Elektronik": "Easycash",
+        "Surat Tanda Berizin/Terdaftar": "KEP-49/D.05/2020",
+        "Tanggal Berizin/Terdaftar": "16 Oktober 2020",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.easycash.id/"
+    },
+    {
+        "Nomor": 36,
+        "Nama Perusahaan": "PT Kuaikuai Tech Indonesia",
+        "Nama Sistem Elektronik": "Pinjamyuk",
+        "Surat Tanda Berizin/Terdaftar": "KEP-2/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "06 Januari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.pinjamyuk.co.id/"
+    },
+    {
+        "Nomor": 37,
+        "Nama Perusahaan": "PT Rezeki Bersama Teknologi",
+        "Nama Sistem Elektronik": "Finplus",
+        "Surat Tanda Berizin/Terdaftar": "KEP-3/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "06 Januari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://finplus.co.id/"
+    },
+    {
+        "Nomor": 38,
+        "Nama Perusahaan": "PT Uangme Fintek Indonesia",
+        "Nama Sistem Elektronik": "Uangme",
+        "Surat Tanda Berizin/Terdaftar": "KEP-4/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "06 Januari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.uangme.id/"
+    },
+    {
+        "Nomor": 39,
+        "Nama Perusahaan": "PT Stanford Teknologi Indonesia",
+        "Nama Sistem Elektronik": "PinjamDuit",
+        "Surat Tanda Berizin/Terdaftar": "KEP-5/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "06 Januari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pinjamduit.co.id/"
+    },
+    {
+        "Nomor": 40,
+        "Nama Perusahaan": "PT Dana Syariah Indonesia",
+        "Nama Sistem Elektronik": "Dana Syariah",
+        "Surat Tanda Berizin/Terdaftar": "KEP-10/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Februari 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "https://www.danasyariah.id/id"
+    },
+    {
+        "Nomor": 41,
+        "Nama Perusahaan": "PT Berdayakan Usaha Indonesia",
+        "Nama Sistem Elektronik": "BATUMBU",
+        "Surat Tanda Berizin/Terdaftar": "KEP-11/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Februari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.batumbu.id"
+    },
+    {
+        "Nomor": 42,
+        "Nama Perusahaan": "PT Artha Permata Makmur",
+        "Nama Sistem Elektronik": "Cashcepat",
+        "Surat Tanda Berizin/Terdaftar": "KEP-12/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Februari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "http://cashcepat.id"
+    },
+    {
+        "Nomor": 43,
+        "Nama Perusahaan": "PT Pinjaman Kemakmuran Rakyat",
+        "Nama Sistem Elektronik": "klikUMKM",
+        "Surat Tanda Berizin/Terdaftar": "KEP-13/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Februari 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.klikUMKM.co.id"
+    },
+    {
+        "Nomor": 44,
+        "Nama Perusahaan": "PT Kredit Plus Teknologi",
+        "Nama Sistem Elektronik": "Pinjam Gampang",
+        "Surat Tanda Berizin/Terdaftar": "KEP-16/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "16 Maret 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "http://www.kreditplusteknologi.id"
+    },
+    {
+        "Nomor": 45,
+        "Nama Perusahaan": "PT Cicil Solusi Mitra Teknologi",
+        "Nama Sistem Elektronik": "cicil",
+        "Surat Tanda Berizin/Terdaftar": "KEP-20/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "14 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://cicil.co.id/"
+    },
+    {
+        "Nomor": 46,
+        "Nama Perusahaan": "PT Lumbung Dana Indonesia",
+        "Nama Sistem Elektronik": "lumbungdana",
+        "Surat Tanda Berizin/Terdaftar": "KEP-21/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "14 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://lumbungdana.co.id/"
+    },
+    {
+        "Nomor": 47,
+        "Nama Perusahaan": "PT Inovasi Terdepan Nusantara",
+        "Nama Sistem Elektronik": "360 KREDI",
+        "Surat Tanda Berizin/Terdaftar": "KEP-22/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "14 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.kredione.id/"
+    },
+    {
+        "Nomor": 48,
+        "Nama Perusahaan": "PT Kreditku Teknologi Indonesia",
+        "Nama Sistem Elektronik": "Kredinesia",
+        "Surat Tanda Berizin/Terdaftar": "KEP-25/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.kredinesia.id/#/"
+    },
+    {
+        "Nomor": 49,
+        "Nama Perusahaan": "PT Pinduit Teknologi Indonesia",
+        "Nama Sistem Elektronik": "Pintek",
+        "Surat Tanda Berizin/Terdaftar": "KEP-26/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://pintek.id/"
+    },
+    {
+        "Nomor": 50,
+        "Nama Perusahaan": "PT Modal Rakyat Indonesia",
+        "Nama Sistem Elektronik": "ModalRakyat",
+        "Surat Tanda Berizin/Terdaftar": "KEP-27/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.modalrakyat.id/"
+    },
+    {
+        "Nomor": 51,
+        "Nama Perusahaan": "PT Anugerah Digital Indonesia",
+        "Nama Sistem Elektronik": "SOLUSIKU",
+        "Surat Tanda Berizin/Terdaftar": "KEP-28/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.solusi-ku.id/halamandepan"
+    },
+    {
+        "Nomor": 52,
+        "Nama Perusahaan": "PT Idana Solusi Sejahtera",
+        "Nama Sistem Elektronik": "Cairin",
+        "Surat Tanda Berizin/Terdaftar": "KEP-29/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.cairin.id/"
+    },
+    {
+        "Nomor": 53,
+        "Nama Perusahaan": "PT Trust Teknologi Finansial",
+        "Nama Sistem Elektronik": "TrustIQ",
+        "Surat Tanda Berizin/Terdaftar": "KEP-30/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://danaku.id/"
+    },
+    {
+        "Nomor": 54,
+        "Nama Perusahaan": "PT Harapan Fintech Indonesia",
+        "Nama Sistem Elektronik": "KLIK KAMI",
+        "Surat Tanda Berizin/Terdaftar": "KEP-31/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.klikkami.co.id"
+    },
+    {
+        "Nomor": 55,
+        "Nama Perusahaan": "PT Duha Madani Syariah",
+        "Nama Sistem Elektronik": "Duha SYARIAH",
+        "Surat Tanda Berizin/Terdaftar": "KEP-32/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "http://www.duhasyariah.com/"
+    },
+    {
+        "Nomor": 56,
+        "Nama Perusahaan": "PT Duha Madani Syariah",
+        "Nama Sistem Elektronik": "Duha SYARIAH",
+        "Surat Tanda Berizin/Terdaftar": "KEP-32/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "21 April 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "www.duhasyariah.com"
+    },
+    {
+        "Nomor": 57,
+        "Nama Perusahaan": "PT Satustop Finansial Solusi",
+        "Nama Sistem Elektronik": "Sanders One Stop_x000D_Solution",
+        "Surat Tanda Berizin/Terdaftar": "KEP-40/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "11 Mei 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "http://sanders.co.id"
+    },
+    {
+        "Nomor": 58,
+        "Nama Perusahaan": "PT Dana Bagus Indonesia",
+        "Nama Sistem Elektronik": "DanaBagus",
+        "Surat Tanda Berizin/Terdaftar": "KEP-41/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "11 Mei 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.danabagus.id"
+    },
+    {
+        "Nomor": 59,
+        "Nama Perusahaan": "PT Teknologi Merlin Sejahtera",
+        "Nama Sistem Elektronik": "UKU",
+        "Surat Tanda Berizin/Terdaftar": "KEP-46/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "ukuindo.com"
+    },
+    {
+        "Nomor": 60,
+        "Nama Perusahaan": "PT Fintek Digital Indonesia",
+        "Nama Sistem Elektronik": "KREDITO",
+        "Surat Tanda Berizin/Terdaftar": "KEP-47/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://kredito.id"
+    },
+    {
+        "Nomor": 61,
+        "Nama Perusahaan": "PT Info Tekno Siaga",
+        "Nama Sistem Elektronik": "AdaPundi",
+        "Surat Tanda Berizin/Terdaftar": "KEP-48/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.adapundi.com"
+    },
+    {
+        "Nomor": 62,
+        "Nama Perusahaan": "PT Lentera Dana Nusantara",
+        "Nama Sistem Elektronik": "Lentera Dana_x000D_Nusantara",
+        "Surat Tanda Berizin/Terdaftar": "KEP-49/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.lenteradana.co.id/lender/"
+    },
+    {
+        "Nomor": 63,
+        "Nama Perusahaan": "PT Solusi Teknologi Finansial",
+        "Nama Sistem Elektronik": "Modal Nasional",
+        "Surat Tanda Berizin/Terdaftar": "KEP-50/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.modalnasional.co.id"
+    },
+    {
+        "Nomor": 64,
+        "Nama Perusahaan": "PT Komunal Finansial Indonesia",
+        "Nama Sistem Elektronik": "Komunal",
+        "Surat Tanda Berizin/Terdaftar": "KEP-51/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.komunal.co.id"
+    },
+    {
+        "Nomor": 65,
+        "Nama Perusahaan": "PT Cerita Teknologi Indonesia",
+        "Nama Sistem Elektronik": "Restock.ID",
+        "Surat Tanda Berizin/Terdaftar": "KEP-52/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Juni 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.restock.id"
+    },
+    {
+        "Nomor": 66,
+        "Nama Perusahaan": "PT Ringan Teknologi Indonesia",
+        "Nama Sistem Elektronik": "Ringan",
+        "Surat Tanda Berizin/Terdaftar": "KEP-65/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.ringan.co.id"
+    },
+    {
+        "Nomor": 67,
+        "Nama Perusahaan": "PT Grha Dana Bersama",
+        "Nama Sistem Elektronik": "Avantee",
+        "Surat Tanda Berizin/Terdaftar": "KEP-66/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.avantee.co.id"
+    },
+    {
+        "Nomor": 68,
+        "Nama Perusahaan": "PT Gradana Teknoruci Indonesia",
+        "Nama Sistem Elektronik": "Gradana",
+        "Surat Tanda Berizin/Terdaftar": "KEP-67/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "gradana.co.id"
+    },
+    {
+        "Nomor": 69,
+        "Nama Perusahaan": "PT Inclusive Finance Group",
+        "Nama Sistem Elektronik": "Danacita",
+        "Surat Tanda Berizin/Terdaftar": "KEP-68/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.danacita.co.id"
+    },
+    {
+        "Nomor": 70,
+        "Nama Perusahaan": "PT IKI Karunia Indonesia",
+        "Nama Sistem Elektronik": "IKI Modal",
+        "Surat Tanda Berizin/Terdaftar": "KEP-69/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "2 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.ikimodal.com"
+    },
+    {
+        "Nomor": 71,
+        "Nama Perusahaan": "PT Finansia Aira Teknologi",
+        "Nama Sistem Elektronik": "Ivoji",
+        "Surat Tanda Berizin/Terdaftar": "KEP-73/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "19 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.ivoji.id"
+    },
+    {
+        "Nomor": 72,
+        "Nama Perusahaan": "PT Bursa Akselerasi Indonesia",
+        "Nama Sistem Elektronik": "Indofund.id",
+        "Surat Tanda Berizin/Terdaftar": " KEP-74/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "  19 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://indofund.id/"
+    },
+    {
+        "Nomor": 73,
+        "Nama Perusahaan": "PT LinkAja Modalin Nusantara",
+        "Nama Sistem Elektronik": "iGrow",
+        "Surat Tanda Berizin/Terdaftar": "KEP-75/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "19 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "igrow.asia"
+    },
+    {
+        "Nomor": 74,
+        "Nama Perusahaan": "PT Adiwisista Finansial Teknologi",
+        "Nama Sistem Elektronik": "Danai.id",
+        "Surat Tanda Berizin/Terdaftar": "KEP-76/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "19 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "http://danai.id"
+    },
+    {
+        "Nomor": 75,
+        "Nama Perusahaan": "PT Fidac Inovasi Teknologi",
+        "Nama Sistem Elektronik": "DUMI",
+        "Surat Tanda Berizin/Terdaftar": "KEP-78/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "minjem.com"
+    },
+    {
+        "Nomor": 76,
+        "Nama Perusahaan": "PT Lampung Berkah Finansial Teknologi",
+        "Nama Sistem Elektronik": "LAHAN SIKAM",
+        "Surat Tanda Berizin/Terdaftar": "KEP-79/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.lahansikam.co.id"
+    },
+    {
+        "Nomor": 77,
+        "Nama Perusahaan": "PT Qazwa Mitra Hasanah",
+        "Nama Sistem Elektronik": "qazwa.id",
+        "Surat Tanda Berizin/Terdaftar": "KEP-80/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "qazwa.id"
+    },
+    {
+        "Nomor": 78,
+        "Nama Perusahaan": "PT KrediFazz Digital Indonesia",
+        "Nama Sistem Elektronik": "KrediFazz",
+        "Surat Tanda Berizin/Terdaftar": "KEP-81/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.kredifazz.id"
+    },
+    {
+        "Nomor": 79,
+        "Nama Perusahaan": "PT Doeku Peduli Indonesia",
+        "Nama Sistem Elektronik": "Doeku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-82/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "doeku.id"
+    },
+    {
+        "Nomor": 80,
+        "Nama Perusahaan": "PT Aktivaku Investama Teknologi",
+        "Nama Sistem Elektronik": "Aktivaku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-83/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "aktivaku.com"
+    },
+    {
+        "Nomor": 81,
+        "Nama Perusahaan": "PT Mulia Inovasi Digital",
+        "Nama Sistem Elektronik": "Danain",
+        "Surat Tanda Berizin/Terdaftar": "KEP-84/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "24 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.danain.co.id"
+    },
+    {
+        "Nomor": 82,
+        "Nama Perusahaan": "T Indosaku Digital Teknologi",
+        "Nama Sistem Elektronik": "Indosaku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-86/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "31 Agustus 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "indosaku.id"
+    },
+    {
+        "Nomor": 83,
+        "Nama Perusahaan": "PT Fintech Bina  Bangsa",
+        "Nama Sistem Elektronik": "EDUFUND",
+        "Surat Tanda Berizin/Terdaftar": "KEP-88/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.edufund.co.id"
+    },
+    {
+        "Nomor": 84,
+        "Nama Perusahaan": "PT Kreasi Anak Indonesia",
+        "Nama Sistem Elektronik": "GandengTangan",
+        "Surat Tanda Berizin/Terdaftar": "KEP-89/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.gandengtangan.co.id"
+    },
+    {
+        "Nomor": 85,
+        "Nama Perusahaan": "PT Piranti Alphabet Perkasa",
+        "Nama Sistem Elektronik": "PAPITUPI SYARIAH",
+        "Surat Tanda Berizin/Terdaftar": "KEP-90/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "www.papitupisyariah.com"
+    },
+    {
+        "Nomor": 86,
+        "Nama Perusahaan": "PT Smartec Teknologi Indonesia",
+        "Nama Sistem Elektronik": "BantuSaku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-91/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "bantusaku.id"
+    },
+    {
+        "Nomor": 87,
+        "Nama Perusahaan": "PT Digital Micro Indonesia",
+        "Nama Sistem Elektronik": "danabijak",
+        "Surat Tanda Berizin/Terdaftar": "KEP-92/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "danabijak.com"
+    },
+    {
+        "Nomor": 88,
+        "Nama Perusahaan": "PT Solid Fintek Indonesia",
+        "Nama Sistem Elektronik": "AdaModal",
+        "Surat Tanda Berizin/Terdaftar": "  KEP-94/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.adamodal.co.id"
+    },
+    {
+        "Nomor": 89,
+        "Nama Perusahaan": "PT Sejahtera Sama Kita",
+        "Nama Sistem Elektronik": "SamaKita",
+        "Surat Tanda Berizin/Terdaftar": "KEP-95/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "8 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://samakita.co.id/"
+    },
+    {
+        "Nomor": 90,
+        "Nama Perusahaan": "PT Kawan Cicil Teknologi Utama",
+        "Nama Sistem Elektronik": "KawanCicil",
+        "Surat Tanda Berizin/Terdaftar": "KEP-101/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.kawancicil.co.id/"
+    },
+    {
+        "Nomor": 91,
+        "Nama Perusahaan": "PT Crowde Membangun Bangsa",
+        "Nama Sistem Elektronik": "CROWDE",
+        "Surat Tanda Berizin/Terdaftar": "KEP-102/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://crowde.co/"
+    },
+    {
+        "Nomor": 92,
+        "Nama Perusahaan": "PT Klikcair Magga Jaya",
+        "Nama Sistem Elektronik": "KlikCair",
+        "Surat Tanda Berizin/Terdaftar": "KEP-103/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://klikcair.com/"
+    },
+    {
+        "Nomor": 93,
+        "Nama Perusahaan": "PT Ethis Fintek Indonesia",
+        "Nama Sistem Elektronik": "ETHIS",
+        "Surat Tanda Berizin/Terdaftar": "KEP-104/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Syariah",
+        "Alamat Website": "ethis.co.id"
+    },
+    {
+        "Nomor": 94,
+        "Nama Perusahaan": "PT Sahabat Mikro Fintek",
+        "Nama Sistem Elektronik": "SAMIR",
+        "Surat Tanda Berizin/Terdaftar": "KEP-105/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.samir.co.id"
+    },
+    {
+        "Nomor": 95,
+        "Nama Perusahaan": "PT Plus Ultra Abadi",
+        "Nama Sistem Elektronik": "UATAS",
+        "Surat Tanda Berizin/Terdaftar": "KEP-106/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "17 September 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.uatas.id"
+    },
+    {
+        "Nomor": 96,
+        "Nama Perusahaan": "PT Pintar Inovasi Digital",
+        "Nama Sistem Elektronik": "Asetku",
+        "Surat Tanda Berizin/Terdaftar": "KEP-123/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Desember 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "www.asetku.co.id"
+    },
+    {
+        "Nomor": 97,
+        "Nama Perusahaan": "PT Mapan Global Reksa",
+        "Nama Sistem Elektronik": "Findaya",
+        "Surat Tanda Berizin/Terdaftar": "KEP-124/D.05/2021",
+        "Tanggal Berizin/Terdaftar": "23 Desember 2021",
+        "Jenis Usaha": "Konvensional",
+        "Alamat Website": "https://www.findaya.co.id"
+    }
+]
