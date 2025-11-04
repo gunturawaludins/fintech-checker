@@ -46,13 +46,6 @@ export default function Home() {
 
   // search & filter states
   const [q, setQ] = useState("");
-  const [company, setCompany] = useState("");
-  const [system, setSystem] = useState("");
-  const [license, setLicense] = useState("");
-  const [businessType, setBusinessType] = useState("");
-  const [website, setWebsite] = useState("");
-  const [dateFrom, setDateFrom] = useState("");
-  const [dateTo, setDateTo] = useState("");
 
   // hamburger menu and column selection
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -104,35 +97,10 @@ export default function Home() {
           it["Nama Perusahaan"],
           it["Nama Sistem Elektronik"],
           it["Alamat Website"],
-          it["Surat Tanda Berizin/Terdaftar"]
+          it["Surat Tanda Berizin/Terdaftar"],
+          it["Jenis Usaha"]
         ].some((f) => includes(f, q));
         if (!any) return false;
-      }
-
-      if (!includes(it["Nama Perusahaan"], company)) return false;
-      if (!includes(it["Nama Sistem Elektronik"], system)) return false;
-      if (!includes(it["Surat Tanda Berizin/Terdaftar"], license)) return false;
-      if (!includes(it["Jenis Usaha"], businessType)) return false;
-      if (!includes(it["Alamat Website"], website)) return false;
-
-      // date range filter (use ISO dates if parsed; else fallback to string includes)
-      if (dateFrom || dateTo) {
-        const iso = it.__isoDate;
-        if (!iso) {
-          // if no parsable date, reject when filtering by range
-          return false;
-        }
-        const d = new Date(iso);
-        if (dateFrom) {
-          const from = new Date(dateFrom);
-          if (d < from) return false;
-        }
-        if (dateTo) {
-          const to = new Date(dateTo);
-          // include whole day for to date
-          to.setHours(23,59,59,999);
-          if (d > to) return false;
-        }
       }
 
       return true;
@@ -143,13 +111,6 @@ export default function Home() {
 
   function resetFilters() {
     setQ("");
-    setCompany("");
-    setSystem("");
-    setLicense("");
-    setBusinessType("");
-    setWebsite("");
-    setDateFrom("");
-    setDateTo("");
     setFiltered(data);
   }
 
@@ -190,21 +151,7 @@ export default function Home() {
           <button className="btn secondary" onClick={resetFilters}>Reset</button>
         </div>
 
-        <div style={{ marginTop:12, display:"flex", gap:8, flexWrap:"wrap" }}>
-          <input className="input" placeholder="Nama Perusahaan" value={company} onChange={e=>setCompany(e.target.value)} />
-          <input className="input" placeholder="Nama Sistem Elektronik" value={system} onChange={e=>setSystem(e.target.value)} />
-          <input className="input" placeholder="Surat Tanda Berizin/Terdaftar" value={license} onChange={e=>setLicense(e.target.value)} />
-          <input className="input" placeholder="Jenis Usaha" value={businessType} onChange={e=>setBusinessType(e.target.value)} />
-          <input className="input" placeholder="Alamat Website" value={website} onChange={e=>setWebsite(e.target.value)} />
-        </div>
-
         <div style={{ marginTop:12, display:"flex", gap:8, alignItems:"center", flexWrap:"wrap" }}>
-          <label style={{fontSize:13,color:"#374151"}}>Tanggal Terdaftar From:
-            <input className="input" type="date" value={dateFrom} onChange={e=>setDateFrom(e.target.value)} style={{marginLeft:8}} />
-          </label>
-          <label style={{fontSize:13,color:"#374151"}}>To:
-            <input className="input" type="date" value={dateTo} onChange={e=>setDateTo(e.target.value)} style={{marginLeft:8}} />
-          </label>
           <div style={{ marginLeft: "auto", color:"#6b7280", fontSize:13 }}>
             Total records: <strong>{data.length}</strong>
           </div>
@@ -224,7 +171,7 @@ export default function Home() {
           <div className="card notice-illegal">
             ❌ <strong>Tidak ditemukan dalam daftar resmi — kemungkinan ILEGAL / UNLISTED</strong>
             <div style={{ marginTop:6, color:"#374151", fontSize:13 }}>
-              Tips: cek kembali ejaan nama, sistem, atau coba hilangkan filter tanggal.
+              Tips: cek kembali ejaan nama, sistem, website, surat, atau jenis usaha.
             </div>
           </div>
         ) : (
